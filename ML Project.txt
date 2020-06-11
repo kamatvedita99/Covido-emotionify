@@ -1,8 +1,0 @@
- [twitter]
-apikey= vtMN7CD9BwCniLHMV11qIkCaw
-apisecretkey= iTdMHcFaZY9XUWj2TbS70sYMKvvkdeYiPPhHXLyKKdfzVC2Xs1
-accesstoken= 1269149138555305984-4mMLSqjm6pSHjBeSYeeeK3yF6rSZLM
-accesstokensecret= kSbzDOour7sCoEf9BISC4eZWZB2T3CCwK9o2f0Lmsdrby
-goggleapikey= AIzaSyDuh4rtap93RoOEm6yVwawc2ctFDjIB7ys
-
-
